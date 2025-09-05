@@ -1,0 +1,1055 @@
+[
+  {
+    "name": "Sarah Chen",
+    "pronouns": "she/her/hers",
+    "designation": "Professor",
+    "research_interest": [
+      "Deep learning",
+      "Robotics",
+      "Computer vision",
+      "Autonomous systems",
+      "Sensor fusion"
+    ],
+    "education": [
+      "PhD in Electrical Engineering, Stanford University",
+      "MS in Computer Science, Carnegie Mellon University",
+      "BS in Engineering, UC Berkeley"
+    ],
+    "biography": "Sarah Chen is a professor in the Department of Computer Science at Northeastern University. Her research focuses on autonomous robotics and deep learning applications. Prior to academia, she worked at Tesla's Autopilot team and NVIDIA Research. She has published extensively in ICRA, IROS, and CVPR conferences.",
+    "projects": ["Autonomous Navigation", "Robot Perception", "Multi-Agent Systems"],
+    "recent_publications": [
+      "Deep Reinforcement Learning for Robot Navigation (ICRA 2024)",
+      "Vision-Based Obstacle Avoidance in Dynamic Environments (IROS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://sarahchen.ai",
+    "google_scholar_link": "https://scholar.google.com/citations?user=SChen123",
+    "areas_of_interest": [
+      {
+        "area": "Robotics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/robotics/"]
+      },
+      {
+        "area": "Machine Learning",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/machine-learning/"]
+      }
+    ],
+    "contact": {"email": "s.chen@northeastern.edu", "phone": "+1-617-373-2000"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/sarah-chen/"
+  },
+  {
+    "name": "Michael Rodriguez",
+    "pronouns": "he/him/his",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Cybersecurity",
+      "Network protocols",
+      "Distributed systems",
+      "Blockchain technology",
+      "Privacy-preserving computing"
+    ],
+    "education": [
+      "PhD in Computer Science, MIT",
+      "MS in Information Security, Georgia Tech",
+      "BS in Computer Engineering, Purdue University"
+    ],
+    "biography": "Michael Rodriguez is an associate professor specializing in cybersecurity and distributed systems. Before joining Northeastern, he served as a security consultant for Fortune 500 companies and worked at IBM Research. His work has been featured in top-tier security conferences including USENIX Security and CCS.",
+    "projects": ["Blockchain Security", "IoT Privacy", "Secure Multi-party Computation"],
+    "recent_publications": [
+      "Privacy-Preserving Smart Contracts (USENIX Security 2024)",
+      "Decentralized Identity Management Systems (CCS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://mrodriguez.security",
+    "google_scholar_link": "https://scholar.google.com/citations?user=MRod456",
+    "areas_of_interest": [
+      {
+        "area": "Cybersecurity",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/cybersecurity/"]
+      },
+      {
+        "area": "Distributed Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/distributed-systems/"]
+      }
+    ],
+    "contact": {"email": "m.rodriguez@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/michael-rodriguez/"
+  },
+  {
+    "name": "Emily Watson",
+    "pronouns": "she/her/hers",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Human-computer interaction",
+      "Accessibility technology",
+      "User experience design",
+      "Assistive technologies",
+      "Social computing"
+    ],
+    "education": [
+      "PhD in Human-Computer Interaction, University of Washington",
+      "MS in Design, Stanford University",
+      "BA in Psychology, Yale University"
+    ],
+    "biography": "Emily Watson is an assistant professor focusing on accessible technology design and human-computer interaction. She previously worked at Microsoft Research and Google's Accessibility team. Her research aims to create more inclusive digital experiences for users with disabilities.",
+    "projects": ["Accessible Web Design", "Voice Interfaces for Vision Impairment", "Inclusive Gaming"],
+    "recent_publications": [
+      "Designing Voice Interfaces for Blind Users (CHI 2024)",
+      "Accessibility in Virtual Reality Environments (ASSETS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://emilywatson.hci",
+    "google_scholar_link": "https://scholar.google.com/citations?user=EWat789",
+    "areas_of_interest": [
+      {
+        "area": "Human-Computer Interaction",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/hci/"]
+      },
+      {
+        "area": "Accessibility",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/accessibility/"]
+      }
+    ],
+    "contact": {"email": "e.watson@northeastern.edu", "office": "WVH 312"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/emily-watson/"
+  },
+  {
+    "name": "James Kim",
+    "pronouns": "he/him/his",
+    "designation": "Professor",
+    "research_interest": [
+      "Database systems",
+      "Big data analytics",
+      "Cloud computing",
+      "Data mining",
+      "Information retrieval"
+    ],
+    "education": [
+      "PhD in Computer Science, UC Berkeley",
+      "MS in Database Systems, Stanford University",
+      "BS in Mathematics, Seoul National University"
+    ],
+    "biography": "James Kim is a professor in database systems and big data analytics. He has extensive industry experience at Oracle, Amazon Web Services, and Samsung Research. His research focuses on scalable data processing systems and has been published in SIGMOD, VLDB, and ICDE.",
+    "projects": ["Distributed Database Optimization", "Real-time Analytics", "Graph Processing"],
+    "recent_publications": [
+      "Optimized Query Processing in Distributed Databases (SIGMOD 2024)",
+      "Real-time Graph Analytics at Scale (VLDB 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://jameskim.db",
+    "google_scholar_link": "https://scholar.google.com/citations?user=JKim012",
+    "areas_of_interest": [
+      {
+        "area": "Database Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/database-systems/"]
+      },
+      {
+        "area": "Big Data",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/big-data/"]
+      }
+    ],
+    "contact": {"email": "j.kim@northeastern.edu", "phone": "+1-617-373-2100"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/james-kim/"
+  },
+  {
+    "name": "Lisa Thompson",
+    "pronouns": "she/her/hers",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Software engineering",
+      "Programming languages",
+      "Software testing",
+      "Code analysis",
+      "Developer tools"
+    ],
+    "education": [
+      "PhD in Software Engineering, University of Toronto",
+      "MS in Computer Science, University of Waterloo",
+      "BS in Software Engineering, McGill University"
+    ],
+    "biography": "Lisa Thompson is an associate professor specializing in software engineering and programming languages. She has contributed to open-source projects and worked at Microsoft and JetBrains. Her research focuses on improving developer productivity through better tools and testing methodologies.",
+    "projects": ["Automated Testing Frameworks", "Code Quality Analysis", "IDE Enhancement"],
+    "recent_publications": [
+      "Intelligent Code Completion using Deep Learning (ICSE 2024)",
+      "Automated Bug Detection in Large Codebases (FSE 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://lisathompson.dev",
+    "google_scholar_link": "https://scholar.google.com/citations?user=LTho345",
+    "areas_of_interest": [
+      {
+        "area": "Software Engineering",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/software-engineering/"]
+      },
+      {
+        "area": "Programming Languages",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/programming-languages/"]
+      }
+    ],
+    "contact": {"email": "l.thompson@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/lisa-thompson/"
+  },
+  {
+    "name": "Robert Zhang",
+    "pronouns": "he/him/his",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Quantum computing",
+      "Cryptography",
+      "Algorithms",
+      "Theoretical computer science",
+      "Quantum algorithms"
+    ],
+    "education": [
+      "PhD in Theoretical Computer Science, Caltech",
+      "MS in Physics, Princeton University",
+      "BS in Mathematics and Physics, MIT"
+    ],
+    "biography": "Robert Zhang is an assistant professor working on quantum computing and theoretical computer science. He completed postdoctoral research at IBM Quantum and Google Quantum AI. His work bridges quantum physics and computer science, focusing on quantum algorithm development.",
+    "projects": ["Quantum Machine Learning", "Post-Quantum Cryptography", "Quantum Error Correction"],
+    "recent_publications": [
+      "Quantum Algorithms for Optimization Problems (Nature Quantum Information 2024)",
+      "Error Correction in Noisy Intermediate-Scale Quantum Devices (Physical Review A 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://robertzhang.quantum",
+    "google_scholar_link": "https://scholar.google.com/citations?user=RZha678",
+    "areas_of_interest": [
+      {
+        "area": "Quantum Computing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/quantum-computing/"]
+      },
+      {
+        "area": "Theoretical Computer Science",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/theory/"]
+      }
+    ],
+    "contact": {"email": "r.zhang@northeastern.edu", "office": "WVH 426"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/robert-zhang/"
+  },
+  {
+    "name": "Amanda Foster",
+    "pronouns": "she/her/hers",
+    "designation": "Professor",
+    "research_interest": [
+      "Bioinformatics",
+      "Computational biology",
+      "Machine learning",
+      "Genomics",
+      "Drug discovery"
+    ],
+    "education": [
+      "PhD in Computational Biology, Harvard University",
+      "MS in Bioinformatics, University of California San Diego",
+      "BS in Biology and Computer Science, Duke University"
+    ],
+    "biography": "Amanda Foster is a professor at the intersection of computer science and biology. She has collaborated extensively with pharmaceutical companies and research hospitals. Her computational approaches to drug discovery have been published in Nature, Science, and Bioinformatics journals.",
+    "projects": ["AI-Driven Drug Discovery", "Genomic Data Analysis", "Protein Structure Prediction"],
+    "recent_publications": [
+      "Machine Learning for Protein Folding Prediction (Nature 2024)",
+      "Computational Approaches to Cancer Genomics (Science 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://amandafoster.bio",
+    "google_scholar_link": "https://scholar.google.com/citations?user=AFos901",
+    "areas_of_interest": [
+      {
+        "area": "Bioinformatics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/bioinformatics/"]
+      },
+      {
+        "area": "Machine Learning",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/machine-learning/"]
+      }
+    ],
+    "contact": {"email": "a.foster@northeastern.edu", "phone": "+1-617-373-2200"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/amanda-foster/"
+  },
+  {
+    "name": "Daniel Lee",
+    "pronouns": "he/him/his",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Computer graphics",
+      "Virtual reality",
+      "Augmented reality",
+      "3D modeling",
+      "Interactive media"
+    ],
+    "education": [
+      "PhD in Computer Graphics, University of Southern California",
+      "MS in Digital Media, New York University",
+      "BA in Art and Computer Science, Brown University"
+    ],
+    "biography": "Daniel Lee is an associate professor specializing in computer graphics and virtual reality. He has worked in the entertainment industry at Pixar and Industrial Light & Magic. His research combines artistic creativity with technical innovation in immersive media experiences.",
+    "projects": ["VR Training Simulations", "Real-time Ray Tracing", "Interactive Art Installations"],
+    "recent_publications": [
+      "Photorealistic Rendering in Real-time VR (SIGGRAPH 2024)",
+      "Haptic Feedback in Virtual Environments (IEEE VR 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://daniellee.graphics",
+    "google_scholar_link": "https://scholar.google.com/citations?user=DLee234",
+    "areas_of_interest": [
+      {
+        "area": "Computer Graphics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-graphics/"]
+      },
+      {
+        "area": "Virtual Reality",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/vr-ar/"]
+      }
+    ],
+    "contact": {"email": "d.lee@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/daniel-lee/"
+  },
+  {
+    "name": "Jennifer Martinez",
+    "pronouns": "she/her/hers",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Natural language processing",
+      "Computational linguistics",
+      "Information extraction",
+      "Text mining",
+      "Multilingual NLP"
+    ],
+    "education": [
+      "PhD in Computational Linguistics, University of Edinburgh",
+      "MS in Natural Language Processing, Carnegie Mellon University",
+      "BA in Linguistics and Computer Science, UCLA"
+    ],
+    "biography": "Jennifer Martinez is an assistant professor focusing on natural language processing and computational linguistics. She has worked at Facebook AI Research and Amazon Alexa. Her research addresses challenges in multilingual text processing and cross-linguistic information extraction.",
+    "projects": ["Cross-lingual Information Extraction", "Multilingual Question Answering", "Low-resource Language Processing"],
+    "recent_publications": [
+      "Zero-shot Cross-lingual Named Entity Recognition (ACL 2024)",
+      "Multilingual Sentiment Analysis in Social Media (EMNLP 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://jennifermartinez.nlp",
+    "google_scholar_link": "https://scholar.google.com/citations?user=JMar567",
+    "areas_of_interest": [
+      {
+        "area": "Natural Language Processing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/natural-language-processing/"]
+      },
+      {
+        "area": "Computational Linguistics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computational-linguistics/"]
+      }
+    ],
+    "contact": {"email": "j.martinez@northeastern.edu", "office": "WVH 518"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/jennifer-martinez/"
+  },
+  {
+    "name": "Kevin O'Brien",
+    "pronouns": "he/him/his",
+    "designation": "Professor",
+    "research_interest": [
+      "Computer networks",
+      "Internet protocols",
+      "Network security",
+      "5G/6G networks",
+      "Edge computing"
+    ],
+    "education": [
+      "PhD in Computer Networks, University of Cambridge",
+      "MS in Electrical Engineering, Trinity College Dublin",
+      "BEng in Electronic Engineering, University College Cork"
+    ],
+    "biography": "Kevin O'Brien is a professor specializing in computer networks and next-generation communication systems. He has served as a technical advisor for telecom companies and the European Commission. His research contributes to the development of future network architectures and protocols.",
+    "projects": ["6G Network Architecture", "Network Function Virtualization", "IoT Edge Computing"],
+    "recent_publications": [
+      "Towards 6G: Network Slicing and Edge Intelligence (IEEE Communications Magazine 2024)",
+      "Security Challenges in 5G Networks (IEEE Network 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://kevinobrien.networks",
+    "google_scholar_link": "https://scholar.google.com/citations?user=KObr890",
+    "areas_of_interest": [
+      {
+        "area": "Computer Networks",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-networks/"]
+      },
+      {
+        "area": "Network Security",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/network-security/"]
+      }
+    ],
+    "contact": {"email": "k.obrien@northeastern.edu", "phone": "+1-617-373-2300"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/kevin-obrien/"
+  },
+  {
+    "name": "Rachel Green",
+    "pronouns": "she/her/hers",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Artificial intelligence",
+      "Machine learning",
+      "Reinforcement learning",
+      "Multi-agent systems",
+      "AI ethics"
+    ],
+    "education": [
+      "PhD in Artificial Intelligence, Oxford University",
+      "MSc in Machine Learning, Imperial College London",
+      "BSc in Computer Science, University of Manchester"
+    ],
+    "biography": "Rachel Green is an associate professor working on artificial intelligence and machine learning systems. She has been involved in AI policy discussions and served on ethics committees for major tech companies. Her research focuses on responsible AI development and multi-agent coordination.",
+    "projects": ["Ethical AI Framework", "Multi-Agent Reinforcement Learning", "AI Fairness in Healthcare"],
+    "recent_publications": [
+      "Fairness in Multi-Agent Systems (AAMAS 2024)",
+      "Ethical Considerations in Autonomous Decision Making (AI & Society 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://rachelgreen.ai",
+    "google_scholar_link": "https://scholar.google.com/citations?user=RGre123",
+    "areas_of_interest": [
+      {
+        "area": "Artificial Intelligence",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/artificial-intelligence/"]
+      },
+      {
+        "area": "AI Ethics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/ai-ethics/"]
+      }
+    ],
+    "contact": {"email": "r.green@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/rachel-green/"
+  },
+  {
+    "name": "Thomas Wilson",
+    "pronouns": "he/him/his",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "High-performance computing",
+      "Parallel algorithms",
+      "GPU computing",
+      "Scientific computing",
+      "Numerical methods"
+    ],
+    "education": [
+      "PhD in High-Performance Computing, University of Illinois Urbana-Champaign",
+      "MS in Applied Mathematics, University of Chicago",
+      "BS in Computer Science and Mathematics, Rice University"
+    ],
+    "biography": "Thomas Wilson is an assistant professor focusing on high-performance computing and parallel algorithms. He has collaborated with national laboratories and supercomputing centers. His work optimizes computational methods for large-scale scientific simulations and data processing.",
+    "projects": ["Exascale Computing Algorithms", "GPU-Accelerated Simulations", "Parallel Numerical Solvers"],
+    "recent_publications": [
+      "Scalable Algorithms for Exascale Computing (SC 2024)",
+      "GPU-Optimized Sparse Matrix Operations (IPDPS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://thomaswilson.hpc",
+    "google_scholar_link": "https://scholar.google.com/citations?user=TWil456",
+    "areas_of_interest": [
+      {
+        "area": "High-Performance Computing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/hpc/"]
+      },
+      {
+        "area": "Parallel Computing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/parallel-computing/"]
+      }
+    ],
+    "contact": {"email": "t.wilson@northeastern.edu", "office": "WVH 632"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/thomas-wilson/"
+  },
+  {
+    "name": "Maria Gonzalez",
+    "pronouns": "she/her/hers",
+    "designation": "Professor",
+    "research_interest": [
+      "Data science",
+      "Machine learning",
+      "Statistical modeling",
+      "Data visualization",
+      "Predictive analytics"
+    ],
+    "education": [
+      "PhD in Statistics, University of California Berkeley",
+      "MS in Data Science, New York University",
+      "BS in Mathematics, University of Texas Austin"
+    ],
+    "biography": "Maria Gonzalez is a professor in data science and statistical modeling. She has extensive consulting experience with healthcare organizations and financial institutions. Her research develops novel statistical methods for complex data analysis and predictive modeling applications.",
+    "projects": ["Healthcare Analytics", "Financial Risk Modeling", "Social Media Data Mining"],
+    "recent_publications": [
+      "Advanced Statistical Methods for Healthcare Data (JASA 2024)",
+      "Predictive Modeling in Financial Markets (Journal of Finance 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://mariagonzalez.stats",
+    "google_scholar_link": "https://scholar.google.com/citations?user=MGon789",
+    "areas_of_interest": [
+      {
+        "area": "Data Science",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/data-science/"]
+      },
+      {
+        "area": "Machine Learning",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/machine-learning/"]
+      }
+    ],
+    "contact": {"email": "m.gonzalez@northeastern.edu", "phone": "+1-617-373-2400"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/maria-gonzalez/"
+  },
+  {
+    "name": "Christopher Davis",
+    "pronouns": "he/him/his",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Information systems",
+      "Digital transformation",
+      "Enterprise architecture",
+      "Business process management",
+      "IT governance"
+    ],
+    "education": [
+      "PhD in Information Systems, London School of Economics",
+      "MBA in Technology Management, MIT Sloan",
+      "BS in Computer Science, Boston University"
+    ],
+    "biography": "Christopher Davis is an associate professor specializing in information systems and digital transformation. He has consulted for major corporations on IT strategy and digital innovation. His research examines how organizations can effectively leverage technology for competitive advantage.",
+    "projects": ["Digital Transformation Frameworks", "Enterprise System Integration", "IT Investment Strategies"],
+    "recent_publications": [
+      "Digital Transformation Success Factors (MIS Quarterly 2024)",
+      "Enterprise Architecture in the Cloud Era (JMIS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://christopherdavis.is",
+    "google_scholar_link": "https://scholar.google.com/citations?user=CDav012",
+    "areas_of_interest": [
+      {
+        "area": "Information Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/information-systems/"]
+      },
+      {
+        "area": "Digital Transformation",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/digital-transformation/"]
+      }
+    ],
+    "contact": {"email": "c.davis@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/christopher-davis/"
+  },
+  {
+    "name": "Nicole Anderson",
+    "pronouns": "she/her/hers",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Mobile computing",
+      "Ubiquitous computing",
+      "Sensor networks",
+      "Internet of Things",
+      "Wearable technology"
+    ],
+    "education": [
+      "PhD in Mobile Computing, Georgia Institute of Technology",
+      "MS in Computer Science, University of Maryland",
+      "BS in Electrical Engineering, Virginia Tech"
+    ],
+    "biography": "Nicole Anderson is an assistant professor working on mobile and ubiquitous computing systems. She has interned at Apple and Samsung, contributing to mobile platform development. Her research focuses on creating seamless computing experiences across multiple devices and environments.",
+    "projects": ["Smart Home Automation", "Wearable Health Monitoring", "Edge-Cloud Computing"],
+    "recent_publications": [
+      "Energy-Efficient Mobile Edge Computing (MobiCom 2024)",
+      "Privacy-Preserving IoT Data Collection (IPSN 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://nicoleanderson.mobile",
+    "google_scholar_link": "https://scholar.google.com/citations?user=NAnd345",
+    "areas_of_interest": [
+      {
+        "area": "Mobile Computing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/mobile-computing/"]
+      },
+      {
+        "area": "Internet of Things",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/iot/"]
+      }
+    ],
+    "contact": {"email": "n.anderson@northeastern.edu", "office": "WVH 748"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/nicole-anderson/"
+  },
+  {
+    "name": "Andrew Taylor",
+    "pronouns": "he/him/his",
+    "designation": "Professor",
+    "research_interest": [
+      "Computer systems",
+      "Operating systems",
+      "Distributed systems",
+      "System security",
+      "Performance optimization"
+    ],
+    "education": [
+      "PhD in Computer Systems, University of Michigan",
+      "MS in Computer Science, University of Wisconsin-Madison",
+      "BS in Computer Engineering, Iowa State University"
+    ],
+    "biography": "Andrew Taylor is a professor specializing in computer systems and operating systems research. He has worked at Intel and AMD on processor architecture. His research focuses on system performance, security, and reliability in modern computing environments.",
+    "projects": ["Secure Operating System Design", "Multi-core Performance Optimization", "Container Security"],
+    "recent_publications": [
+      "Security Mechanisms in Modern Operating Systems (SOSP 2024)",
+      "Performance Isolation in Containerized Environments (OSDI 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://andrewtaylor.systems",
+    "google_scholar_link": "https://scholar.google.com/citations?user=ATay678",
+    "areas_of_interest": [
+      {
+        "area": "Computer Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-systems/"]
+      },
+      {
+        "area": "Operating Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/operating-systems/"]
+      }
+    ],
+    "contact": {"email": "a.taylor@northeastern.edu", "phone": "+1-617-373-2500"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/andrew-taylor/"
+  },
+  {
+    "name": "Jessica Wang",
+    "pronouns": "she/her/hers",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Computer vision",
+      "Image processing",
+      "Pattern recognition",
+      "Medical imaging",
+      "Deep learning"
+    ],
+    "education": [
+      "PhD in Computer Vision, University of California San Diego",
+      "MS in Electrical Engineering, Stanford University",
+      "BS in Applied Mathematics, Peking University"
+    ],
+    "biography": "Jessica Wang is an associate professor focusing on computer vision and medical imaging applications. She has collaborated with hospitals and medical device companies to develop diagnostic imaging systems. Her work combines advanced computer vision techniques with clinical applications.",
+    "projects": ["AI-Assisted Medical Diagnosis", "Automated Radiology Analysis", "3D Medical Image Reconstruction"],
+    "recent_publications": [
+      "Deep Learning for Medical Image Segmentation (Medical Image Analysis 2024)",
+      "Automated Cancer Detection in CT Scans (Nature Medicine 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://jessicawang.vision",
+    "google_scholar_link": "https://scholar.google.com/citations?user=JWan901",
+    "areas_of_interest": [
+      {
+        "area": "Computer Vision",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-vision/"]
+      },
+      {
+        "area": "Medical Imaging",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/medical-imaging/"]
+      }
+    ],
+    "contact": {"email": "j.wang@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/jessica-wang/"
+  },
+  {
+    "name": "Brian Miller",
+    "pronouns": "he/him/his",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Game theory",
+      "Algorithmic game theory",
+      "Mechanism design",
+      "Economics and computation",
+      "Social choice theory"
+    ],
+    "education": [
+      "PhD in Computer Science, Harvard University",
+      "MS in Economics, London School of Economics",
+      "BA in Mathematics and Economics, Williams College"
+    ],
+    "biography": "Brian Miller is an assistant professor working at the intersection of computer science and economics. He has consulted for auction houses and financial markets on mechanism design. His research applies game theory and algorithmic thinking to economic and social problems.",
+    "projects": ["Online Auction Mechanisms", "Fair Division Algorithms", "Computational Social Choice"],
+    "recent_publications": [
+      "Truthful Mechanisms for Online Auctions (EC 2024)",
+      "Fair Division with Strategic Agents (WINE 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://brianmiller.econ",
+    "google_scholar_link": "https://scholar.google.com/citations?user=BMil234",
+    "areas_of_interest": [
+      {
+        "area": "Algorithmic Game Theory",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/algorithmic-game-theory/"]
+      },
+      {
+        "area": "Economics and Computation",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/economics-computation/"]
+      }
+    ],
+    "contact": {"email": "b.miller@northeastern.edu", "office": "WVH 864"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/brian-miller/"
+  },
+  {
+    "name": "Karen Brown",
+    "pronouns": "she/her/hers",
+    "designation": "Professor",
+    "research_interest": [
+      "Educational technology",
+      "Learning analytics",
+      "MOOC platforms",
+      "Adaptive learning systems",
+      "Computer science education"
+    ],
+    "education": [
+      "PhD in Educational Technology, Teachers College Columbia University",
+      "MEd in Curriculum and Instruction, Harvard Graduate School of Education",
+      "BS in Computer Science, Wellesley College"
+    ],
+    "biography": "Karen Brown is a professor focusing on educational technology and computer science education. She has developed online learning platforms and worked with edtech startups. Her research examines how technology can improve learning outcomes and accessibility in computer science education.",
+    "projects": ["Adaptive Programming Tutors", "CS Education for Underrepresented Groups", "Learning Analytics Dashboard"],
+    "recent_publications": [
+      "Personalized Learning in Computer Science Education (Computers & Education 2024)",
+      "Gender Gaps in Online Programming Courses (SIGCSE 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://karenbrown.edtech",
+    "google_scholar_link": "https://scholar.google.com/citations?user=KBro567",
+    "areas_of_interest": [
+      {
+        "area": "Educational Technology",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/educational-technology/"]
+      },
+      {
+        "area": "Computer Science Education",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/cs-education/"]
+      }
+    ],
+    "contact": {"email": "k.brown@northeastern.edu", "phone": "+1-617-373-2600"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/karen-brown/"
+  },
+  {
+    "name": "Steven Clark",
+    "pronouns": "he/him/his",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Computational geometry",
+      "Geometric algorithms",
+      "Computer graphics",
+      "3D reconstruction",
+      "Mesh processing"
+    ],
+    "education": [
+      "PhD in Computational Geometry, ETH Zurich",
+      "MS in Applied Mathematics, Technical University of Munich",
+      "BS in Mathematics, University of Cambridge"
+    ],
+    "biography": "Steven Clark is an associate professor specializing in computational geometry and geometric algorithms. He has worked in the CAD industry and collaborated with architecture firms on geometric modeling. His research develops efficient algorithms for processing complex geometric data.",
+    "projects": ["3D Shape Analysis", "Geometric Mesh Optimization", "Architectural Geometry"],
+    "recent_publications": [
+      "Efficient Algorithms for 3D Mesh Simplification (Computational Geometry 2024)",
+      "Geometric Deep Learning for Shape Analysis (SIGGRAPH 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://stevenclark.geometry",
+    "google_scholar_link": "https://scholar.google.com/citations?user=SCla890",
+    "areas_of_interest": [
+      {
+        "area": "Computational Geometry",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computational-geometry/"]
+      },
+      {
+        "area": "Computer Graphics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-graphics/"]
+      }
+    ],
+    "contact": {"email": "s.clark@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/steven-clark/"
+  },
+  {
+    "name": "Laura Johnson",
+    "pronouns": "she/her/hers",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Social media analysis",
+      "Digital humanities",
+      "Text analytics",
+      "Social networks",
+      "Cultural computing"
+    ],
+    "education": [
+      "PhD in Digital Humanities, University of Virginia",
+      "MA in Media Studies, New York University",
+      "BA in English Literature and Computer Science, Swarthmore College"
+    ],
+    "biography": "Laura Johnson is an assistant professor working at the intersection of computer science and humanities. She has collaborated with museums and cultural institutions on digital preservation projects. Her research applies computational methods to analyze cultural and social phenomena.",
+    "projects": ["Digital Archive Analysis", "Social Media Cultural Trends", "Computational Literary Analysis"],
+    "recent_publications": [
+      "Machine Learning for Historical Text Analysis (Digital Humanities Quarterly 2024)",
+      "Social Network Analysis of Literary Communities (ADHO 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://laurajohnson.dh",
+    "google_scholar_link": "https://scholar.google.com/citations?user=LJoh123",
+    "areas_of_interest": [
+      {
+        "area": "Digital Humanities",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/digital-humanities/"]
+      },
+      {
+        "area": "Social Media Analysis",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/social-media-analysis/"]
+      }
+    ],
+    "contact": {"email": "l.johnson@northeastern.edu", "office": "WVH 980"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/laura-johnson/"
+  },
+  {
+    "name": "Mark Roberts",
+    "pronouns": "he/him/his",
+    "designation": "Professor",
+    "research_interest": [
+      "Computer architecture",
+      "Processor design",
+      "Memory systems",
+      "Embedded systems",
+      "Low-power computing"
+    ],
+    "education": [
+      "PhD in Computer Architecture, University of California Berkeley",
+      "MS in Electrical Engineering, MIT",
+      "BS in Computer Engineering, University of Texas at Austin"
+    ],
+    "biography": "Mark Roberts is a professor specializing in computer architecture and processor design. He has worked at Intel and ARM on processor development. His research focuses on energy-efficient computing architectures and specialized processors for emerging applications.",
+    "projects": ["Energy-Efficient Processors", "Neuromorphic Computing Architecture", "Edge AI Accelerators"],
+    "recent_publications": [
+      "Low-Power Architectures for Edge AI (ISCA 2024)",
+      "Neuromorphic Processor Design Principles (MICRO 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://markroberts.arch",
+    "google_scholar_link": "https://scholar.google.com/citations?user=MRob456",
+    "areas_of_interest": [
+      {
+        "area": "Computer Architecture",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computer-architecture/"]
+      },
+      {
+        "area": "Embedded Systems",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/embedded-systems/"]
+      }
+    ],
+    "contact": {"email": "m.roberts@northeastern.edu", "phone": "+1-617-373-2700"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/mark-roberts/"
+  },
+  {
+    "name": "Patricia Lewis",
+    "pronouns": "she/her/hers",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Information visualization",
+      "Data visualization",
+      "Visual analytics",
+      "Dashboard design",
+      "Perception and cognition"
+    ],
+    "education": [
+      "PhD in Information Visualization, University of Utah",
+      "MS in Graphic Design, Rhode Island School of Design",
+      "BS in Psychology and Computer Science, Tufts University"
+    ],
+    "biography": "Patricia Lewis is an associate professor focusing on information visualization and visual analytics. She has consulted for data analytics companies and government agencies on dashboard design. Her research combines principles from psychology and design to create effective data visualizations.",
+    "projects": ["Interactive Dashboard Design", "Visual Analytics for Healthcare", "Cognitive Load in Data Visualization"],
+    "recent_publications": [
+      "Cognitive Principles in Data Visualization Design (IEEE TVCG 2024)",
+      "Effective Dashboard Design for Decision Making (InfoVis 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://patricialewis.viz",
+    "google_scholar_link": "https://scholar.google.com/citations?user=PLew789",
+    "areas_of_interest": [
+      {
+        "area": "Information Visualization",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/information-visualization/"]
+      },
+      {
+        "area": "Visual Analytics",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/visual-analytics/"]
+      }
+    ],
+    "contact": {"email": "p.lewis@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/patricia-lewis/"
+  },
+  {
+    "name": "Ryan Murphy",
+    "pronouns": "he/him/his",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Privacy-preserving computing",
+      "Differential privacy",
+      "Secure computation",
+      "Federated learning",
+      "Data protection"
+    ],
+    "education": [
+      "PhD in Privacy and Security, Cornell University",
+      "MS in Applied Cryptography, University of Waterloo",
+      "BS in Mathematics and Computer Science, McGill University"
+    ],
+    "biography": "Ryan Murphy is an assistant professor specializing in privacy-preserving computing and data protection. He has worked with healthcare organizations and financial institutions on implementing privacy technologies. His research develops practical solutions for protecting sensitive data in computational systems.",
+    "projects": ["Private Machine Learning", "Secure Multi-party Computation", "Healthcare Data Privacy"],
+    "recent_publications": [
+      "Differential Privacy in Federated Learning (ICML 2024)",
+      "Practical Secure Computation for Healthcare (CCS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://ryanmurphy.privacy",
+    "google_scholar_link": "https://scholar.google.com/citations?user=RMur012",
+    "areas_of_interest": [
+      {
+        "area": "Privacy-Preserving Computing",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/privacy-computing/"]
+      },
+      {
+        "area": "Differential Privacy",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/differential-privacy/"]
+      }
+    ],
+    "contact": {"email": "r.murphy@northeastern.edu", "office": "WVH 1096"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/ryan-murphy/"
+  },
+  {
+    "name": "Sandra White",
+    "pronouns": "she/her/hers",
+    "designation": "Professor",
+    "research_interest": [
+      "Knowledge representation",
+      "Semantic web",
+      "Ontology engineering",
+      "Expert systems",
+      "Symbolic AI"
+    ],
+    "education": [
+      "PhD in Knowledge Representation, University of Edinburgh",
+      "MS in Artificial Intelligence, Stanford University",
+      "BA in Philosophy and Computer Science, Oxford University"
+    ],
+    "biography": "Sandra White is a professor working on knowledge representation and semantic web technologies. She has developed ontologies for major organizations and worked on expert system projects. Her research focuses on representing and reasoning with complex knowledge in AI systems.",
+    "projects": ["Medical Ontology Development", "Semantic Data Integration", "Expert System Design"],
+    "recent_publications": [
+      "Automated Ontology Construction from Text (Semantic Web Journal 2024)",
+      "Knowledge Graph Completion Using Symbolic Reasoning (ISWC 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://sandrawhite.semantic",
+    "google_scholar_link": "https://scholar.google.com/citations?user=SWhi345",
+    "areas_of_interest": [
+      {
+        "area": "Knowledge Representation",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/knowledge-representation/"]
+      },
+      {
+        "area": "Semantic Web",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/semantic-web/"]
+      }
+    ],
+    "contact": {"email": "s.white@northeastern.edu", "phone": "+1-617-373-2800"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/sandra-white/"
+  },
+  {
+    "name": "Paul Garcia",
+    "pronouns": "he/him/his",
+    "designation": "Associate Professor",
+    "research_interest": [
+      "Formal methods",
+      "Program verification",
+      "Model checking",
+      "Software reliability",
+      "Critical systems"
+    ],
+    "education": [
+      "PhD in Formal Methods, Carnegie Mellon University",
+      "MS in Software Engineering, University of Texas at Austin",
+      "BS in Computer Science, California Institute of Technology"
+    ],
+    "biography": "Paul Garcia is an associate professor specializing in formal methods and program verification. He has worked on safety-critical systems for aerospace and automotive industries. His research develops mathematical techniques to ensure software correctness and reliability.",
+    "projects": ["Autonomous Vehicle Verification", "Medical Device Software Validation", "Blockchain Protocol Verification"],
+    "recent_publications": [
+      "Formal Verification of Autonomous Driving Systems (CAV 2024)",
+      "Model Checking for Smart Contract Security (TACAS 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://paulgarcia.formal",
+    "google_scholar_link": "https://scholar.google.com/citations?user=PGar678",
+    "areas_of_interest": [
+      {
+        "area": "Formal Methods",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/formal-methods/"]
+      },
+      {
+        "area": "Program Verification",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/program-verification/"]
+      }
+    ],
+    "contact": {"email": "p.garcia@northeastern.edu"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/paul-garcia/"
+  },
+  {
+    "name": "Helen Carter",
+    "pronouns": "she/her/hers",
+    "designation": "Assistant Professor",
+    "research_interest": [
+      "Computational neuroscience",
+      "Brain-computer interfaces",
+      "Neural signal processing",
+      "Machine learning for neuroscience",
+      "Cognitive modeling"
+    ],
+    "education": [
+      "PhD in Computational Neuroscience, University of California San Francisco",
+      "MS in Biomedical Engineering, Johns Hopkins University",
+      "BS in Neuroscience and Computer Science, MIT"
+    ],
+    "biography": "Helen Carter is an assistant professor working at the intersection of computer science and neuroscience. She has collaborated with medical centers on brain-computer interface development. Her research applies computational methods to understand brain function and develop neural technologies.",
+    "projects": ["Brain-Computer Interface Design", "Neural Decoding Algorithms", "Computational Models of Learning"],
+    "recent_publications": [
+      "Deep Learning for Neural Signal Decoding (Nature Neuroscience 2024)",
+      "Real-time Brain-Computer Interface Control (Journal of Neural Engineering 2023)"
+    ],
+    "faculty_category": "Tenured/Tenure-Track Faculty",
+    "campus": "Boston",
+    "website": "https://helencarter.neuro",
+    "google_scholar_link": "https://scholar.google.com/citations?user=HCar901",
+    "areas_of_interest": [
+      {
+        "area": "Computational Neuroscience",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/computational-neuroscience/"]
+      },
+      {
+        "area": "Brain-Computer Interfaces",
+        "links": ["https://www.khoury.northeastern.edu/research_areas/brain-computer-interfaces/"]
+      }
+    ],
+    "contact": {"email": "h.carter@northeastern.edu", "office": "WVH 1212"},
+    "profile_url": "https://www.khoury.northeastern.edu/people/helen-carter/"
+  }
+]
